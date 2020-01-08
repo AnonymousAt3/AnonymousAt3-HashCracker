@@ -1,6 +1,5 @@
 This Script Was Made By Anonymous At3 (Cyber Ghosts)
 
-It was open source and anyone can use this script
 
 #instructions
 
